@@ -1,6 +1,6 @@
 import React from "react";
 import Skeletons from "./Skeletons";
-import VideoCard from "./videoCard";
+import VideoCard from "./VideoCard";
 
 const VideoList = ({ oneColumn, videos }) => {
   return (
